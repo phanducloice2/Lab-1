@@ -15,6 +15,7 @@ void run_exercise6();
 void run_exercise7();
 void run_exercise8();
 void run_exercise9();
+void clearAllClock();
 void run_exercise10();
 
 

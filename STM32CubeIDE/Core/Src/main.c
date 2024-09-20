@@ -18,11 +18,12 @@
   */
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
-#include <Exercise 678910.h>
 #include "main.h"
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
+#include "Exercise 678910.h"
+
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
@@ -93,12 +94,13 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
-	  run_exercise6();
+	  //run_exercise6();
 //	  run_exercise7();
 //	  run_exercise8();
 //	  run_exercise9();
-//	  run_exercise10();
-	  HAL_Delay(1000);
+	  run_exercise10();
+	  HAL_Delay(10);
+	  clearAllClock();
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */

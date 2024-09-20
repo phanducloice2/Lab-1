@@ -4,8 +4,12 @@
  *  Created on: Sep 20, 2024
  *      Author: Phan Duc Loi
  */
-#include <Exercise 678910.h>
+#include "Exercise 678910.h"
+#include "main.h"
 int count=0;
+int gio=0;
+int phut=0;
+int giay=0;
 void init_exercise678910(){}
 void clearAllClock(){
 	HAL_GPIO_WritePin(pa4_GPIO_Port, pa4_Pin, RESET);
@@ -146,5 +150,14 @@ void run_exercise6(){
 void run_exercise7(){clearAllClock();}
 void run_exercise8(){setNumberOnClock(count);}
 void run_exercise9(){clearNumberOnClock(count);}
-void run_exercise10(){}
+void run_exercise10(){
+	//clearAllClock();
+	if (giay>=60) {giay=0;phut++;}
+	if (phut>=60) {phut=0;gio++;}
+	if (gio>=24) {gio=0;}
+	setNumberOnClock(gio/2);
+	setNumberOnClock(phut/5);
+	setNumberOnClock(giay/5);
+	giay++;
+}
 
