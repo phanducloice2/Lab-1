@@ -159,8 +159,10 @@ static void MX_GPIO_Init(void)
                           |LED_YELLOW_Pin|LED_GREEN_Pin, GPIO_PIN_RESET);
 
   /*Configure GPIO pin Output Level */
-  HAL_GPIO_WritePin(GPIOB, pb0_Pin|pb1_Pin|pb2_Pin|pb3_Pin
-                          |pb4_Pin|pb5_Pin|pb6_Pin, GPIO_PIN_RESET);
+  HAL_GPIO_WritePin(GPIOB, pb0_Pin|pb1_Pin|pb2_Pin|pb10_Pin
+                          |pb11_Pin|pb12_Pin|pb13_Pin|pb3_Pin
+                          |pb4_Pin|pb5_Pin|pb6_Pin|pb7_Pin
+                          |pb8_Pin|pb9_Pin, GPIO_PIN_RESET);
 
   /*Configure GPIO pins : red1_Pin red2_Pin yellow1_Pin */
   GPIO_InitStruct.Pin = red1_Pin|red2_Pin|yellow1_Pin;
@@ -178,10 +180,14 @@ static void MX_GPIO_Init(void)
   GPIO_InitStruct.Speed = GPIO_SPEED_FREQ_LOW;
   HAL_GPIO_Init(GPIOA, &GPIO_InitStruct);
 
-  /*Configure GPIO pins : pb0_Pin pb1_Pin pb2_Pin pb3_Pin
-                           pb4_Pin pb5_Pin pb6_Pin */
-  GPIO_InitStruct.Pin = pb0_Pin|pb1_Pin|pb2_Pin|pb3_Pin
-                          |pb4_Pin|pb5_Pin|pb6_Pin;
+  /*Configure GPIO pins : pb0_Pin pb1_Pin pb2_Pin pb10_Pin
+                           pb11_Pin pb12_Pin pb13_Pin pb3_Pin
+                           pb4_Pin pb5_Pin pb6_Pin pb7_Pin
+                           pb8_Pin pb9_Pin */
+  GPIO_InitStruct.Pin = pb0_Pin|pb1_Pin|pb2_Pin|pb10_Pin
+                          |pb11_Pin|pb12_Pin|pb13_Pin|pb3_Pin
+                          |pb4_Pin|pb5_Pin|pb6_Pin|pb7_Pin
+                          |pb8_Pin|pb9_Pin;
   GPIO_InitStruct.Mode = GPIO_MODE_OUTPUT_PP;
   GPIO_InitStruct.Pull = GPIO_NOPULL;
   GPIO_InitStruct.Speed = GPIO_SPEED_FREQ_LOW;
