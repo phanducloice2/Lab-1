@@ -58,8 +58,24 @@ void Error_Handler(void);
 /* USER CODE END EFP */
 
 /* Private defines -----------------------------------------------------------*/
+#define red1_Pin GPIO_PIN_13
+#define red1_GPIO_Port GPIOC
+#define red2_Pin GPIO_PIN_14
+#define red2_GPIO_Port GPIOC
+#define yellow1_Pin GPIO_PIN_15
+#define yellow1_GPIO_Port GPIOC
+#define yellow2_Pin GPIO_PIN_1
+#define yellow2_GPIO_Port GPIOA
+#define green1_Pin GPIO_PIN_2
+#define green1_GPIO_Port GPIOA
+#define green2_Pin GPIO_PIN_3
+#define green2_GPIO_Port GPIOA
 #define LED_RED_Pin GPIO_PIN_5
 #define LED_RED_GPIO_Port GPIOA
+#define LED_YELLOW_Pin GPIO_PIN_6
+#define LED_YELLOW_GPIO_Port GPIOA
+#define LED_GREEN_Pin GPIO_PIN_7
+#define LED_GREEN_GPIO_Port GPIOA
 /* USER CODE BEGIN Private defines */
 
 /* USER CODE END Private defines */
