@@ -42,7 +42,7 @@ void run_exercise3(){
 	else if (count>5){led_red1();led_yellow2();count--;}
 	else if (count>2){led_green1();led_red2();count--;}
 	else if (count>0){led_yellow1();led_red2();count--;}
-	else count=10;
+	if (count==0) count=10;
 }
 
 
