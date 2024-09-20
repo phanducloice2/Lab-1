@@ -151,7 +151,7 @@ void run_exercise7(){clearAllClock();}
 void run_exercise8(){setNumberOnClock(count);}
 void run_exercise9(){clearNumberOnClock(count);}
 void run_exercise10(){
-	//clearAllClock();
+	clearAllClock();
 	if (giay>=60) {giay=0;phut++;}
 	if (phut>=60) {phut=0;gio++;}
 	if (gio>=24) {gio=0;}
