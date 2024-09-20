@@ -30,6 +30,896 @@ Discarded input sections
  .ARM.exidx     0x0000000000000000       0x10 c:/st/stm32cubeide_1.7.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_2.0.0.202105311346/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
  .ARM.attributes
                 0x0000000000000000       0x1b c:/st/stm32cubeide_1.7.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_2.0.0.202105311346/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 1.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 1.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 1.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 1.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 1.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 1.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 1.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 1.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 1.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 1.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 1.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 1.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 1.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 1.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 1.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 1.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 1.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 1.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 1.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 1.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 1.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 1.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 1.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 1.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 1.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 1.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 1.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 1.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 1.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 1.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 1.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 1.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 1.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 1.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 1.o
+ .text          0x0000000000000000        0x0 ./Core/Src/Exercise 1.o
+ .data          0x0000000000000000        0x0 ./Core/Src/Exercise 1.o
+ .bss           0x0000000000000000        0x0 ./Core/Src/Exercise 1.o
+ .text.init_exercise1
+                0x0000000000000000        0xc ./Core/Src/Exercise 1.o
+ .text.run_exercise1
+                0x0000000000000000        0xc ./Core/Src/Exercise 1.o
+ .debug_info    0x0000000000000000      0x1a4 ./Core/Src/Exercise 1.o
+ .debug_abbrev  0x0000000000000000       0xb6 ./Core/Src/Exercise 1.o
+ .debug_aranges
+                0x0000000000000000       0x28 ./Core/Src/Exercise 1.o
+ .debug_ranges  0x0000000000000000       0x18 ./Core/Src/Exercise 1.o
+ .debug_macro   0x0000000000000000      0x19b ./Core/Src/Exercise 1.o
+ .debug_macro   0x0000000000000000      0xa9c ./Core/Src/Exercise 1.o
+ .debug_macro   0x0000000000000000      0x20f ./Core/Src/Exercise 1.o
+ .debug_macro   0x0000000000000000       0x2e ./Core/Src/Exercise 1.o
+ .debug_macro   0x0000000000000000       0x22 ./Core/Src/Exercise 1.o
+ .debug_macro   0x0000000000000000       0x22 ./Core/Src/Exercise 1.o
+ .debug_macro   0x0000000000000000       0x8e ./Core/Src/Exercise 1.o
+ .debug_macro   0x0000000000000000       0x51 ./Core/Src/Exercise 1.o
+ .debug_macro   0x0000000000000000      0x103 ./Core/Src/Exercise 1.o
+ .debug_macro   0x0000000000000000       0x6a ./Core/Src/Exercise 1.o
+ .debug_macro   0x0000000000000000      0x1df ./Core/Src/Exercise 1.o
+ .debug_macro   0x0000000000000000       0x1c ./Core/Src/Exercise 1.o
+ .debug_macro   0x0000000000000000       0x22 ./Core/Src/Exercise 1.o
+ .debug_macro   0x0000000000000000       0xc3 ./Core/Src/Exercise 1.o
+ .debug_macro   0x0000000000000000      0xd23 ./Core/Src/Exercise 1.o
+ .debug_macro   0x0000000000000000     0xde75 ./Core/Src/Exercise 1.o
+ .debug_macro   0x0000000000000000       0x6d ./Core/Src/Exercise 1.o
+ .debug_macro   0x0000000000000000     0x34a2 ./Core/Src/Exercise 1.o
+ .debug_macro   0x0000000000000000      0x174 ./Core/Src/Exercise 1.o
+ .debug_macro   0x0000000000000000       0x5c ./Core/Src/Exercise 1.o
+ .debug_macro   0x0000000000000000      0x5bc ./Core/Src/Exercise 1.o
+ .debug_macro   0x0000000000000000      0x1b7 ./Core/Src/Exercise 1.o
+ .debug_macro   0x0000000000000000      0x1cb ./Core/Src/Exercise 1.o
+ .debug_macro   0x0000000000000000      0x114 ./Core/Src/Exercise 1.o
+ .debug_macro   0x0000000000000000      0x1b2 ./Core/Src/Exercise 1.o
+ .debug_macro   0x0000000000000000       0x27 ./Core/Src/Exercise 1.o
+ .debug_macro   0x0000000000000000      0x12f ./Core/Src/Exercise 1.o
+ .debug_macro   0x0000000000000000      0x1bc ./Core/Src/Exercise 1.o
+ .debug_macro   0x0000000000000000       0x34 ./Core/Src/Exercise 1.o
+ .debug_macro   0x0000000000000000       0x3c ./Core/Src/Exercise 1.o
+ .debug_macro   0x0000000000000000       0x57 ./Core/Src/Exercise 1.o
+ .debug_macro   0x0000000000000000       0x87 ./Core/Src/Exercise 1.o
+ .debug_macro   0x0000000000000000      0x183 ./Core/Src/Exercise 1.o
+ .debug_macro   0x0000000000000000      0x140 ./Core/Src/Exercise 1.o
+ .debug_macro   0x0000000000000000       0x69 ./Core/Src/Exercise 1.o
+ .debug_macro   0x0000000000000000       0x10 ./Core/Src/Exercise 1.o
+ .debug_line    0x0000000000000000      0x648 ./Core/Src/Exercise 1.o
+ .debug_str     0x0000000000000000    0x78a4a ./Core/Src/Exercise 1.o
+ .comment       0x0000000000000000       0x54 ./Core/Src/Exercise 1.o
+ .debug_frame   0x0000000000000000       0x50 ./Core/Src/Exercise 1.o
+ .ARM.attributes
+                0x0000000000000000       0x2d ./Core/Src/Exercise 1.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 10.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 10.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 10.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 10.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 10.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 10.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 10.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 10.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 10.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 10.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 10.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 10.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 10.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 10.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 10.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 10.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 10.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 10.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 10.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 10.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 10.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 10.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 10.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 10.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 10.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 10.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 10.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 10.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 10.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 10.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 10.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 10.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 10.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 10.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 10.o
+ .text          0x0000000000000000        0x0 ./Core/Src/Exercise 10.o
+ .data          0x0000000000000000        0x0 ./Core/Src/Exercise 10.o
+ .bss           0x0000000000000000        0x0 ./Core/Src/Exercise 10.o
+ .text.init_exercise10
+                0x0000000000000000        0xc ./Core/Src/Exercise 10.o
+ .text.run_exercise10
+                0x0000000000000000        0xc ./Core/Src/Exercise 10.o
+ .debug_info    0x0000000000000000      0x1a4 ./Core/Src/Exercise 10.o
+ .debug_abbrev  0x0000000000000000       0xb6 ./Core/Src/Exercise 10.o
+ .debug_aranges
+                0x0000000000000000       0x28 ./Core/Src/Exercise 10.o
+ .debug_ranges  0x0000000000000000       0x18 ./Core/Src/Exercise 10.o
+ .debug_macro   0x0000000000000000      0x19b ./Core/Src/Exercise 10.o
+ .debug_macro   0x0000000000000000      0xa9c ./Core/Src/Exercise 10.o
+ .debug_macro   0x0000000000000000      0x20f ./Core/Src/Exercise 10.o
+ .debug_macro   0x0000000000000000       0x2e ./Core/Src/Exercise 10.o
+ .debug_macro   0x0000000000000000       0x22 ./Core/Src/Exercise 10.o
+ .debug_macro   0x0000000000000000       0x22 ./Core/Src/Exercise 10.o
+ .debug_macro   0x0000000000000000       0x8e ./Core/Src/Exercise 10.o
+ .debug_macro   0x0000000000000000       0x51 ./Core/Src/Exercise 10.o
+ .debug_macro   0x0000000000000000      0x103 ./Core/Src/Exercise 10.o
+ .debug_macro   0x0000000000000000       0x6a ./Core/Src/Exercise 10.o
+ .debug_macro   0x0000000000000000      0x1df ./Core/Src/Exercise 10.o
+ .debug_macro   0x0000000000000000       0x1c ./Core/Src/Exercise 10.o
+ .debug_macro   0x0000000000000000       0x22 ./Core/Src/Exercise 10.o
+ .debug_macro   0x0000000000000000       0xc3 ./Core/Src/Exercise 10.o
+ .debug_macro   0x0000000000000000      0xd23 ./Core/Src/Exercise 10.o
+ .debug_macro   0x0000000000000000     0xde75 ./Core/Src/Exercise 10.o
+ .debug_macro   0x0000000000000000       0x6d ./Core/Src/Exercise 10.o
+ .debug_macro   0x0000000000000000     0x34a2 ./Core/Src/Exercise 10.o
+ .debug_macro   0x0000000000000000      0x174 ./Core/Src/Exercise 10.o
+ .debug_macro   0x0000000000000000       0x5c ./Core/Src/Exercise 10.o
+ .debug_macro   0x0000000000000000      0x5bc ./Core/Src/Exercise 10.o
+ .debug_macro   0x0000000000000000      0x1b7 ./Core/Src/Exercise 10.o
+ .debug_macro   0x0000000000000000      0x1cb ./Core/Src/Exercise 10.o
+ .debug_macro   0x0000000000000000      0x114 ./Core/Src/Exercise 10.o
+ .debug_macro   0x0000000000000000      0x1b2 ./Core/Src/Exercise 10.o
+ .debug_macro   0x0000000000000000       0x27 ./Core/Src/Exercise 10.o
+ .debug_macro   0x0000000000000000      0x12f ./Core/Src/Exercise 10.o
+ .debug_macro   0x0000000000000000      0x1bc ./Core/Src/Exercise 10.o
+ .debug_macro   0x0000000000000000       0x34 ./Core/Src/Exercise 10.o
+ .debug_macro   0x0000000000000000       0x3c ./Core/Src/Exercise 10.o
+ .debug_macro   0x0000000000000000       0x57 ./Core/Src/Exercise 10.o
+ .debug_macro   0x0000000000000000       0x87 ./Core/Src/Exercise 10.o
+ .debug_macro   0x0000000000000000      0x183 ./Core/Src/Exercise 10.o
+ .debug_macro   0x0000000000000000      0x140 ./Core/Src/Exercise 10.o
+ .debug_macro   0x0000000000000000       0x69 ./Core/Src/Exercise 10.o
+ .debug_macro   0x0000000000000000       0x10 ./Core/Src/Exercise 10.o
+ .debug_line    0x0000000000000000      0x64a ./Core/Src/Exercise 10.o
+ .debug_str     0x0000000000000000    0x78a4e ./Core/Src/Exercise 10.o
+ .comment       0x0000000000000000       0x54 ./Core/Src/Exercise 10.o
+ .debug_frame   0x0000000000000000       0x50 ./Core/Src/Exercise 10.o
+ .ARM.attributes
+                0x0000000000000000       0x2d ./Core/Src/Exercise 10.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 2.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 2.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 2.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 2.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 2.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 2.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 2.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 2.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 2.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 2.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 2.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 2.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 2.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 2.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 2.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 2.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 2.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 2.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 2.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 2.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 2.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 2.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 2.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 2.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 2.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 2.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 2.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 2.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 2.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 2.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 2.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 2.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 2.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 2.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 2.o
+ .text          0x0000000000000000        0x0 ./Core/Src/Exercise 2.o
+ .data          0x0000000000000000        0x0 ./Core/Src/Exercise 2.o
+ .bss           0x0000000000000000        0x0 ./Core/Src/Exercise 2.o
+ .text.init_exercise2
+                0x0000000000000000        0xc ./Core/Src/Exercise 2.o
+ .text.run_exercise2
+                0x0000000000000000        0xc ./Core/Src/Exercise 2.o
+ .debug_info    0x0000000000000000      0x1a4 ./Core/Src/Exercise 2.o
+ .debug_abbrev  0x0000000000000000       0xb6 ./Core/Src/Exercise 2.o
+ .debug_aranges
+                0x0000000000000000       0x28 ./Core/Src/Exercise 2.o
+ .debug_ranges  0x0000000000000000       0x18 ./Core/Src/Exercise 2.o
+ .debug_macro   0x0000000000000000      0x19b ./Core/Src/Exercise 2.o
+ .debug_macro   0x0000000000000000      0xa9c ./Core/Src/Exercise 2.o
+ .debug_macro   0x0000000000000000      0x20f ./Core/Src/Exercise 2.o
+ .debug_macro   0x0000000000000000       0x2e ./Core/Src/Exercise 2.o
+ .debug_macro   0x0000000000000000       0x22 ./Core/Src/Exercise 2.o
+ .debug_macro   0x0000000000000000       0x22 ./Core/Src/Exercise 2.o
+ .debug_macro   0x0000000000000000       0x8e ./Core/Src/Exercise 2.o
+ .debug_macro   0x0000000000000000       0x51 ./Core/Src/Exercise 2.o
+ .debug_macro   0x0000000000000000      0x103 ./Core/Src/Exercise 2.o
+ .debug_macro   0x0000000000000000       0x6a ./Core/Src/Exercise 2.o
+ .debug_macro   0x0000000000000000      0x1df ./Core/Src/Exercise 2.o
+ .debug_macro   0x0000000000000000       0x1c ./Core/Src/Exercise 2.o
+ .debug_macro   0x0000000000000000       0x22 ./Core/Src/Exercise 2.o
+ .debug_macro   0x0000000000000000       0xc3 ./Core/Src/Exercise 2.o
+ .debug_macro   0x0000000000000000      0xd23 ./Core/Src/Exercise 2.o
+ .debug_macro   0x0000000000000000     0xde75 ./Core/Src/Exercise 2.o
+ .debug_macro   0x0000000000000000       0x6d ./Core/Src/Exercise 2.o
+ .debug_macro   0x0000000000000000     0x34a2 ./Core/Src/Exercise 2.o
+ .debug_macro   0x0000000000000000      0x174 ./Core/Src/Exercise 2.o
+ .debug_macro   0x0000000000000000       0x5c ./Core/Src/Exercise 2.o
+ .debug_macro   0x0000000000000000      0x5bc ./Core/Src/Exercise 2.o
+ .debug_macro   0x0000000000000000      0x1b7 ./Core/Src/Exercise 2.o
+ .debug_macro   0x0000000000000000      0x1cb ./Core/Src/Exercise 2.o
+ .debug_macro   0x0000000000000000      0x114 ./Core/Src/Exercise 2.o
+ .debug_macro   0x0000000000000000      0x1b2 ./Core/Src/Exercise 2.o
+ .debug_macro   0x0000000000000000       0x27 ./Core/Src/Exercise 2.o
+ .debug_macro   0x0000000000000000      0x12f ./Core/Src/Exercise 2.o
+ .debug_macro   0x0000000000000000      0x1bc ./Core/Src/Exercise 2.o
+ .debug_macro   0x0000000000000000       0x34 ./Core/Src/Exercise 2.o
+ .debug_macro   0x0000000000000000       0x3c ./Core/Src/Exercise 2.o
+ .debug_macro   0x0000000000000000       0x57 ./Core/Src/Exercise 2.o
+ .debug_macro   0x0000000000000000       0x87 ./Core/Src/Exercise 2.o
+ .debug_macro   0x0000000000000000      0x183 ./Core/Src/Exercise 2.o
+ .debug_macro   0x0000000000000000      0x140 ./Core/Src/Exercise 2.o
+ .debug_macro   0x0000000000000000       0x69 ./Core/Src/Exercise 2.o
+ .debug_macro   0x0000000000000000       0x10 ./Core/Src/Exercise 2.o
+ .debug_line    0x0000000000000000      0x648 ./Core/Src/Exercise 2.o
+ .debug_str     0x0000000000000000    0x78a4a ./Core/Src/Exercise 2.o
+ .comment       0x0000000000000000       0x54 ./Core/Src/Exercise 2.o
+ .debug_frame   0x0000000000000000       0x50 ./Core/Src/Exercise 2.o
+ .ARM.attributes
+                0x0000000000000000       0x2d ./Core/Src/Exercise 2.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 3.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 3.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 3.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 3.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 3.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 3.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 3.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 3.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 3.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 3.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 3.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 3.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 3.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 3.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 3.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 3.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 3.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 3.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 3.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 3.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 3.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 3.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 3.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 3.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 3.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 3.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 3.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 3.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 3.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 3.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 3.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 3.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 3.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 3.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 3.o
+ .text          0x0000000000000000        0x0 ./Core/Src/Exercise 3.o
+ .data          0x0000000000000000        0x0 ./Core/Src/Exercise 3.o
+ .bss           0x0000000000000000        0x0 ./Core/Src/Exercise 3.o
+ .text.init_exercise3
+                0x0000000000000000        0xc ./Core/Src/Exercise 3.o
+ .text.run_exercise3
+                0x0000000000000000        0xc ./Core/Src/Exercise 3.o
+ .debug_info    0x0000000000000000      0x1a4 ./Core/Src/Exercise 3.o
+ .debug_abbrev  0x0000000000000000       0xb6 ./Core/Src/Exercise 3.o
+ .debug_aranges
+                0x0000000000000000       0x28 ./Core/Src/Exercise 3.o
+ .debug_ranges  0x0000000000000000       0x18 ./Core/Src/Exercise 3.o
+ .debug_macro   0x0000000000000000      0x19b ./Core/Src/Exercise 3.o
+ .debug_macro   0x0000000000000000      0xa9c ./Core/Src/Exercise 3.o
+ .debug_macro   0x0000000000000000      0x20f ./Core/Src/Exercise 3.o
+ .debug_macro   0x0000000000000000       0x2e ./Core/Src/Exercise 3.o
+ .debug_macro   0x0000000000000000       0x22 ./Core/Src/Exercise 3.o
+ .debug_macro   0x0000000000000000       0x22 ./Core/Src/Exercise 3.o
+ .debug_macro   0x0000000000000000       0x8e ./Core/Src/Exercise 3.o
+ .debug_macro   0x0000000000000000       0x51 ./Core/Src/Exercise 3.o
+ .debug_macro   0x0000000000000000      0x103 ./Core/Src/Exercise 3.o
+ .debug_macro   0x0000000000000000       0x6a ./Core/Src/Exercise 3.o
+ .debug_macro   0x0000000000000000      0x1df ./Core/Src/Exercise 3.o
+ .debug_macro   0x0000000000000000       0x1c ./Core/Src/Exercise 3.o
+ .debug_macro   0x0000000000000000       0x22 ./Core/Src/Exercise 3.o
+ .debug_macro   0x0000000000000000       0xc3 ./Core/Src/Exercise 3.o
+ .debug_macro   0x0000000000000000      0xd23 ./Core/Src/Exercise 3.o
+ .debug_macro   0x0000000000000000     0xde75 ./Core/Src/Exercise 3.o
+ .debug_macro   0x0000000000000000       0x6d ./Core/Src/Exercise 3.o
+ .debug_macro   0x0000000000000000     0x34a2 ./Core/Src/Exercise 3.o
+ .debug_macro   0x0000000000000000      0x174 ./Core/Src/Exercise 3.o
+ .debug_macro   0x0000000000000000       0x5c ./Core/Src/Exercise 3.o
+ .debug_macro   0x0000000000000000      0x5bc ./Core/Src/Exercise 3.o
+ .debug_macro   0x0000000000000000      0x1b7 ./Core/Src/Exercise 3.o
+ .debug_macro   0x0000000000000000      0x1cb ./Core/Src/Exercise 3.o
+ .debug_macro   0x0000000000000000      0x114 ./Core/Src/Exercise 3.o
+ .debug_macro   0x0000000000000000      0x1b2 ./Core/Src/Exercise 3.o
+ .debug_macro   0x0000000000000000       0x27 ./Core/Src/Exercise 3.o
+ .debug_macro   0x0000000000000000      0x12f ./Core/Src/Exercise 3.o
+ .debug_macro   0x0000000000000000      0x1bc ./Core/Src/Exercise 3.o
+ .debug_macro   0x0000000000000000       0x34 ./Core/Src/Exercise 3.o
+ .debug_macro   0x0000000000000000       0x3c ./Core/Src/Exercise 3.o
+ .debug_macro   0x0000000000000000       0x57 ./Core/Src/Exercise 3.o
+ .debug_macro   0x0000000000000000       0x87 ./Core/Src/Exercise 3.o
+ .debug_macro   0x0000000000000000      0x183 ./Core/Src/Exercise 3.o
+ .debug_macro   0x0000000000000000      0x140 ./Core/Src/Exercise 3.o
+ .debug_macro   0x0000000000000000       0x69 ./Core/Src/Exercise 3.o
+ .debug_macro   0x0000000000000000       0x10 ./Core/Src/Exercise 3.o
+ .debug_line    0x0000000000000000      0x648 ./Core/Src/Exercise 3.o
+ .debug_str     0x0000000000000000    0x78a4a ./Core/Src/Exercise 3.o
+ .comment       0x0000000000000000       0x54 ./Core/Src/Exercise 3.o
+ .debug_frame   0x0000000000000000       0x50 ./Core/Src/Exercise 3.o
+ .ARM.attributes
+                0x0000000000000000       0x2d ./Core/Src/Exercise 3.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 4.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 4.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 4.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 4.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 4.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 4.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 4.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 4.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 4.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 4.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 4.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 4.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 4.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 4.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 4.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 4.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 4.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 4.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 4.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 4.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 4.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 4.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 4.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 4.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 4.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 4.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 4.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 4.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 4.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 4.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 4.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 4.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 4.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 4.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 4.o
+ .text          0x0000000000000000        0x0 ./Core/Src/Exercise 4.o
+ .data          0x0000000000000000        0x0 ./Core/Src/Exercise 4.o
+ .bss           0x0000000000000000        0x0 ./Core/Src/Exercise 4.o
+ .text.init_exercise4
+                0x0000000000000000        0xc ./Core/Src/Exercise 4.o
+ .text.run_exercise4
+                0x0000000000000000        0xc ./Core/Src/Exercise 4.o
+ .debug_info    0x0000000000000000      0x1a4 ./Core/Src/Exercise 4.o
+ .debug_abbrev  0x0000000000000000       0xb6 ./Core/Src/Exercise 4.o
+ .debug_aranges
+                0x0000000000000000       0x28 ./Core/Src/Exercise 4.o
+ .debug_ranges  0x0000000000000000       0x18 ./Core/Src/Exercise 4.o
+ .debug_macro   0x0000000000000000      0x19b ./Core/Src/Exercise 4.o
+ .debug_macro   0x0000000000000000      0xa9c ./Core/Src/Exercise 4.o
+ .debug_macro   0x0000000000000000      0x20f ./Core/Src/Exercise 4.o
+ .debug_macro   0x0000000000000000       0x2e ./Core/Src/Exercise 4.o
+ .debug_macro   0x0000000000000000       0x22 ./Core/Src/Exercise 4.o
+ .debug_macro   0x0000000000000000       0x22 ./Core/Src/Exercise 4.o
+ .debug_macro   0x0000000000000000       0x8e ./Core/Src/Exercise 4.o
+ .debug_macro   0x0000000000000000       0x51 ./Core/Src/Exercise 4.o
+ .debug_macro   0x0000000000000000      0x103 ./Core/Src/Exercise 4.o
+ .debug_macro   0x0000000000000000       0x6a ./Core/Src/Exercise 4.o
+ .debug_macro   0x0000000000000000      0x1df ./Core/Src/Exercise 4.o
+ .debug_macro   0x0000000000000000       0x1c ./Core/Src/Exercise 4.o
+ .debug_macro   0x0000000000000000       0x22 ./Core/Src/Exercise 4.o
+ .debug_macro   0x0000000000000000       0xc3 ./Core/Src/Exercise 4.o
+ .debug_macro   0x0000000000000000      0xd23 ./Core/Src/Exercise 4.o
+ .debug_macro   0x0000000000000000     0xde75 ./Core/Src/Exercise 4.o
+ .debug_macro   0x0000000000000000       0x6d ./Core/Src/Exercise 4.o
+ .debug_macro   0x0000000000000000     0x34a2 ./Core/Src/Exercise 4.o
+ .debug_macro   0x0000000000000000      0x174 ./Core/Src/Exercise 4.o
+ .debug_macro   0x0000000000000000       0x5c ./Core/Src/Exercise 4.o
+ .debug_macro   0x0000000000000000      0x5bc ./Core/Src/Exercise 4.o
+ .debug_macro   0x0000000000000000      0x1b7 ./Core/Src/Exercise 4.o
+ .debug_macro   0x0000000000000000      0x1cb ./Core/Src/Exercise 4.o
+ .debug_macro   0x0000000000000000      0x114 ./Core/Src/Exercise 4.o
+ .debug_macro   0x0000000000000000      0x1b2 ./Core/Src/Exercise 4.o
+ .debug_macro   0x0000000000000000       0x27 ./Core/Src/Exercise 4.o
+ .debug_macro   0x0000000000000000      0x12f ./Core/Src/Exercise 4.o
+ .debug_macro   0x0000000000000000      0x1bc ./Core/Src/Exercise 4.o
+ .debug_macro   0x0000000000000000       0x34 ./Core/Src/Exercise 4.o
+ .debug_macro   0x0000000000000000       0x3c ./Core/Src/Exercise 4.o
+ .debug_macro   0x0000000000000000       0x57 ./Core/Src/Exercise 4.o
+ .debug_macro   0x0000000000000000       0x87 ./Core/Src/Exercise 4.o
+ .debug_macro   0x0000000000000000      0x183 ./Core/Src/Exercise 4.o
+ .debug_macro   0x0000000000000000      0x140 ./Core/Src/Exercise 4.o
+ .debug_macro   0x0000000000000000       0x69 ./Core/Src/Exercise 4.o
+ .debug_macro   0x0000000000000000       0x10 ./Core/Src/Exercise 4.o
+ .debug_line    0x0000000000000000      0x648 ./Core/Src/Exercise 4.o
+ .debug_str     0x0000000000000000    0x78a4a ./Core/Src/Exercise 4.o
+ .comment       0x0000000000000000       0x54 ./Core/Src/Exercise 4.o
+ .debug_frame   0x0000000000000000       0x50 ./Core/Src/Exercise 4.o
+ .ARM.attributes
+                0x0000000000000000       0x2d ./Core/Src/Exercise 4.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 5.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 5.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 5.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 5.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 5.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 5.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 5.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 5.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 5.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 5.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 5.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 5.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 5.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 5.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 5.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 5.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 5.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 5.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 5.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 5.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 5.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 5.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 5.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 5.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 5.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 5.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 5.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 5.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 5.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 5.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 5.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 5.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 5.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 5.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 5.o
+ .text          0x0000000000000000        0x0 ./Core/Src/Exercise 5.o
+ .data          0x0000000000000000        0x0 ./Core/Src/Exercise 5.o
+ .bss           0x0000000000000000        0x0 ./Core/Src/Exercise 5.o
+ .text.init_exercise5
+                0x0000000000000000        0xc ./Core/Src/Exercise 5.o
+ .text.run_exercise5
+                0x0000000000000000        0xc ./Core/Src/Exercise 5.o
+ .debug_info    0x0000000000000000      0x1a4 ./Core/Src/Exercise 5.o
+ .debug_abbrev  0x0000000000000000       0xb6 ./Core/Src/Exercise 5.o
+ .debug_aranges
+                0x0000000000000000       0x28 ./Core/Src/Exercise 5.o
+ .debug_ranges  0x0000000000000000       0x18 ./Core/Src/Exercise 5.o
+ .debug_macro   0x0000000000000000      0x19b ./Core/Src/Exercise 5.o
+ .debug_macro   0x0000000000000000      0xa9c ./Core/Src/Exercise 5.o
+ .debug_macro   0x0000000000000000      0x20f ./Core/Src/Exercise 5.o
+ .debug_macro   0x0000000000000000       0x2e ./Core/Src/Exercise 5.o
+ .debug_macro   0x0000000000000000       0x22 ./Core/Src/Exercise 5.o
+ .debug_macro   0x0000000000000000       0x22 ./Core/Src/Exercise 5.o
+ .debug_macro   0x0000000000000000       0x8e ./Core/Src/Exercise 5.o
+ .debug_macro   0x0000000000000000       0x51 ./Core/Src/Exercise 5.o
+ .debug_macro   0x0000000000000000      0x103 ./Core/Src/Exercise 5.o
+ .debug_macro   0x0000000000000000       0x6a ./Core/Src/Exercise 5.o
+ .debug_macro   0x0000000000000000      0x1df ./Core/Src/Exercise 5.o
+ .debug_macro   0x0000000000000000       0x1c ./Core/Src/Exercise 5.o
+ .debug_macro   0x0000000000000000       0x22 ./Core/Src/Exercise 5.o
+ .debug_macro   0x0000000000000000       0xc3 ./Core/Src/Exercise 5.o
+ .debug_macro   0x0000000000000000      0xd23 ./Core/Src/Exercise 5.o
+ .debug_macro   0x0000000000000000     0xde75 ./Core/Src/Exercise 5.o
+ .debug_macro   0x0000000000000000       0x6d ./Core/Src/Exercise 5.o
+ .debug_macro   0x0000000000000000     0x34a2 ./Core/Src/Exercise 5.o
+ .debug_macro   0x0000000000000000      0x174 ./Core/Src/Exercise 5.o
+ .debug_macro   0x0000000000000000       0x5c ./Core/Src/Exercise 5.o
+ .debug_macro   0x0000000000000000      0x5bc ./Core/Src/Exercise 5.o
+ .debug_macro   0x0000000000000000      0x1b7 ./Core/Src/Exercise 5.o
+ .debug_macro   0x0000000000000000      0x1cb ./Core/Src/Exercise 5.o
+ .debug_macro   0x0000000000000000      0x114 ./Core/Src/Exercise 5.o
+ .debug_macro   0x0000000000000000      0x1b2 ./Core/Src/Exercise 5.o
+ .debug_macro   0x0000000000000000       0x27 ./Core/Src/Exercise 5.o
+ .debug_macro   0x0000000000000000      0x12f ./Core/Src/Exercise 5.o
+ .debug_macro   0x0000000000000000      0x1bc ./Core/Src/Exercise 5.o
+ .debug_macro   0x0000000000000000       0x34 ./Core/Src/Exercise 5.o
+ .debug_macro   0x0000000000000000       0x3c ./Core/Src/Exercise 5.o
+ .debug_macro   0x0000000000000000       0x57 ./Core/Src/Exercise 5.o
+ .debug_macro   0x0000000000000000       0x87 ./Core/Src/Exercise 5.o
+ .debug_macro   0x0000000000000000      0x183 ./Core/Src/Exercise 5.o
+ .debug_macro   0x0000000000000000      0x140 ./Core/Src/Exercise 5.o
+ .debug_macro   0x0000000000000000       0x69 ./Core/Src/Exercise 5.o
+ .debug_macro   0x0000000000000000       0x10 ./Core/Src/Exercise 5.o
+ .debug_line    0x0000000000000000      0x648 ./Core/Src/Exercise 5.o
+ .debug_str     0x0000000000000000    0x78a4a ./Core/Src/Exercise 5.o
+ .comment       0x0000000000000000       0x54 ./Core/Src/Exercise 5.o
+ .debug_frame   0x0000000000000000       0x50 ./Core/Src/Exercise 5.o
+ .ARM.attributes
+                0x0000000000000000       0x2d ./Core/Src/Exercise 5.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 6.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 6.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 6.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 6.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 6.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 6.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 6.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 6.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 6.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 6.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 6.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 6.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 6.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 6.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 6.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 6.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 6.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 6.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 6.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 6.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 6.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 6.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 6.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 6.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 6.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 6.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 6.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 6.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 6.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 6.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 6.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 6.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 6.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 6.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 6.o
+ .text          0x0000000000000000        0x0 ./Core/Src/Exercise 6.o
+ .data          0x0000000000000000        0x0 ./Core/Src/Exercise 6.o
+ .bss           0x0000000000000000        0x0 ./Core/Src/Exercise 6.o
+ .text.init_exercise6
+                0x0000000000000000        0xc ./Core/Src/Exercise 6.o
+ .text.run_exercise6
+                0x0000000000000000        0xc ./Core/Src/Exercise 6.o
+ .debug_info    0x0000000000000000      0x1a4 ./Core/Src/Exercise 6.o
+ .debug_abbrev  0x0000000000000000       0xb6 ./Core/Src/Exercise 6.o
+ .debug_aranges
+                0x0000000000000000       0x28 ./Core/Src/Exercise 6.o
+ .debug_ranges  0x0000000000000000       0x18 ./Core/Src/Exercise 6.o
+ .debug_macro   0x0000000000000000      0x19b ./Core/Src/Exercise 6.o
+ .debug_macro   0x0000000000000000      0xa9c ./Core/Src/Exercise 6.o
+ .debug_macro   0x0000000000000000      0x20f ./Core/Src/Exercise 6.o
+ .debug_macro   0x0000000000000000       0x2e ./Core/Src/Exercise 6.o
+ .debug_macro   0x0000000000000000       0x22 ./Core/Src/Exercise 6.o
+ .debug_macro   0x0000000000000000       0x22 ./Core/Src/Exercise 6.o
+ .debug_macro   0x0000000000000000       0x8e ./Core/Src/Exercise 6.o
+ .debug_macro   0x0000000000000000       0x51 ./Core/Src/Exercise 6.o
+ .debug_macro   0x0000000000000000      0x103 ./Core/Src/Exercise 6.o
+ .debug_macro   0x0000000000000000       0x6a ./Core/Src/Exercise 6.o
+ .debug_macro   0x0000000000000000      0x1df ./Core/Src/Exercise 6.o
+ .debug_macro   0x0000000000000000       0x1c ./Core/Src/Exercise 6.o
+ .debug_macro   0x0000000000000000       0x22 ./Core/Src/Exercise 6.o
+ .debug_macro   0x0000000000000000       0xc3 ./Core/Src/Exercise 6.o
+ .debug_macro   0x0000000000000000      0xd23 ./Core/Src/Exercise 6.o
+ .debug_macro   0x0000000000000000     0xde75 ./Core/Src/Exercise 6.o
+ .debug_macro   0x0000000000000000       0x6d ./Core/Src/Exercise 6.o
+ .debug_macro   0x0000000000000000     0x34a2 ./Core/Src/Exercise 6.o
+ .debug_macro   0x0000000000000000      0x174 ./Core/Src/Exercise 6.o
+ .debug_macro   0x0000000000000000       0x5c ./Core/Src/Exercise 6.o
+ .debug_macro   0x0000000000000000      0x5bc ./Core/Src/Exercise 6.o
+ .debug_macro   0x0000000000000000      0x1b7 ./Core/Src/Exercise 6.o
+ .debug_macro   0x0000000000000000      0x1cb ./Core/Src/Exercise 6.o
+ .debug_macro   0x0000000000000000      0x114 ./Core/Src/Exercise 6.o
+ .debug_macro   0x0000000000000000      0x1b2 ./Core/Src/Exercise 6.o
+ .debug_macro   0x0000000000000000       0x27 ./Core/Src/Exercise 6.o
+ .debug_macro   0x0000000000000000      0x12f ./Core/Src/Exercise 6.o
+ .debug_macro   0x0000000000000000      0x1bc ./Core/Src/Exercise 6.o
+ .debug_macro   0x0000000000000000       0x34 ./Core/Src/Exercise 6.o
+ .debug_macro   0x0000000000000000       0x3c ./Core/Src/Exercise 6.o
+ .debug_macro   0x0000000000000000       0x57 ./Core/Src/Exercise 6.o
+ .debug_macro   0x0000000000000000       0x87 ./Core/Src/Exercise 6.o
+ .debug_macro   0x0000000000000000      0x183 ./Core/Src/Exercise 6.o
+ .debug_macro   0x0000000000000000      0x140 ./Core/Src/Exercise 6.o
+ .debug_macro   0x0000000000000000       0x69 ./Core/Src/Exercise 6.o
+ .debug_macro   0x0000000000000000       0x10 ./Core/Src/Exercise 6.o
+ .debug_line    0x0000000000000000      0x648 ./Core/Src/Exercise 6.o
+ .debug_str     0x0000000000000000    0x78a4a ./Core/Src/Exercise 6.o
+ .comment       0x0000000000000000       0x54 ./Core/Src/Exercise 6.o
+ .debug_frame   0x0000000000000000       0x50 ./Core/Src/Exercise 6.o
+ .ARM.attributes
+                0x0000000000000000       0x2d ./Core/Src/Exercise 6.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 7.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 7.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 7.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 7.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 7.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 7.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 7.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 7.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 7.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 7.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 7.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 7.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 7.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 7.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 7.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 7.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 7.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 7.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 7.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 7.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 7.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 7.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 7.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 7.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 7.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 7.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 7.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 7.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 7.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 7.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 7.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 7.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 7.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 7.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 7.o
+ .text          0x0000000000000000        0x0 ./Core/Src/Exercise 7.o
+ .data          0x0000000000000000        0x0 ./Core/Src/Exercise 7.o
+ .bss           0x0000000000000000        0x0 ./Core/Src/Exercise 7.o
+ .text.init_exercise7
+                0x0000000000000000        0xc ./Core/Src/Exercise 7.o
+ .text.run_exercise7
+                0x0000000000000000        0xc ./Core/Src/Exercise 7.o
+ .debug_info    0x0000000000000000      0x1a4 ./Core/Src/Exercise 7.o
+ .debug_abbrev  0x0000000000000000       0xb6 ./Core/Src/Exercise 7.o
+ .debug_aranges
+                0x0000000000000000       0x28 ./Core/Src/Exercise 7.o
+ .debug_ranges  0x0000000000000000       0x18 ./Core/Src/Exercise 7.o
+ .debug_macro   0x0000000000000000      0x19b ./Core/Src/Exercise 7.o
+ .debug_macro   0x0000000000000000      0xa9c ./Core/Src/Exercise 7.o
+ .debug_macro   0x0000000000000000      0x20f ./Core/Src/Exercise 7.o
+ .debug_macro   0x0000000000000000       0x2e ./Core/Src/Exercise 7.o
+ .debug_macro   0x0000000000000000       0x22 ./Core/Src/Exercise 7.o
+ .debug_macro   0x0000000000000000       0x22 ./Core/Src/Exercise 7.o
+ .debug_macro   0x0000000000000000       0x8e ./Core/Src/Exercise 7.o
+ .debug_macro   0x0000000000000000       0x51 ./Core/Src/Exercise 7.o
+ .debug_macro   0x0000000000000000      0x103 ./Core/Src/Exercise 7.o
+ .debug_macro   0x0000000000000000       0x6a ./Core/Src/Exercise 7.o
+ .debug_macro   0x0000000000000000      0x1df ./Core/Src/Exercise 7.o
+ .debug_macro   0x0000000000000000       0x1c ./Core/Src/Exercise 7.o
+ .debug_macro   0x0000000000000000       0x22 ./Core/Src/Exercise 7.o
+ .debug_macro   0x0000000000000000       0xc3 ./Core/Src/Exercise 7.o
+ .debug_macro   0x0000000000000000      0xd23 ./Core/Src/Exercise 7.o
+ .debug_macro   0x0000000000000000     0xde75 ./Core/Src/Exercise 7.o
+ .debug_macro   0x0000000000000000       0x6d ./Core/Src/Exercise 7.o
+ .debug_macro   0x0000000000000000     0x34a2 ./Core/Src/Exercise 7.o
+ .debug_macro   0x0000000000000000      0x174 ./Core/Src/Exercise 7.o
+ .debug_macro   0x0000000000000000       0x5c ./Core/Src/Exercise 7.o
+ .debug_macro   0x0000000000000000      0x5bc ./Core/Src/Exercise 7.o
+ .debug_macro   0x0000000000000000      0x1b7 ./Core/Src/Exercise 7.o
+ .debug_macro   0x0000000000000000      0x1cb ./Core/Src/Exercise 7.o
+ .debug_macro   0x0000000000000000      0x114 ./Core/Src/Exercise 7.o
+ .debug_macro   0x0000000000000000      0x1b2 ./Core/Src/Exercise 7.o
+ .debug_macro   0x0000000000000000       0x27 ./Core/Src/Exercise 7.o
+ .debug_macro   0x0000000000000000      0x12f ./Core/Src/Exercise 7.o
+ .debug_macro   0x0000000000000000      0x1bc ./Core/Src/Exercise 7.o
+ .debug_macro   0x0000000000000000       0x34 ./Core/Src/Exercise 7.o
+ .debug_macro   0x0000000000000000       0x3c ./Core/Src/Exercise 7.o
+ .debug_macro   0x0000000000000000       0x57 ./Core/Src/Exercise 7.o
+ .debug_macro   0x0000000000000000       0x87 ./Core/Src/Exercise 7.o
+ .debug_macro   0x0000000000000000      0x183 ./Core/Src/Exercise 7.o
+ .debug_macro   0x0000000000000000      0x140 ./Core/Src/Exercise 7.o
+ .debug_macro   0x0000000000000000       0x69 ./Core/Src/Exercise 7.o
+ .debug_macro   0x0000000000000000       0x10 ./Core/Src/Exercise 7.o
+ .debug_line    0x0000000000000000      0x648 ./Core/Src/Exercise 7.o
+ .debug_str     0x0000000000000000    0x78a4a ./Core/Src/Exercise 7.o
+ .comment       0x0000000000000000       0x54 ./Core/Src/Exercise 7.o
+ .debug_frame   0x0000000000000000       0x50 ./Core/Src/Exercise 7.o
+ .ARM.attributes
+                0x0000000000000000       0x2d ./Core/Src/Exercise 7.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 8.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 8.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 8.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 8.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 8.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 8.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 8.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 8.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 8.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 8.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 8.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 8.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 8.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 8.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 8.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 8.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 8.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 8.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 8.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 8.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 8.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 8.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 8.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 8.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 8.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 8.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 8.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 8.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 8.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 8.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 8.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 8.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 8.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 8.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 8.o
+ .text          0x0000000000000000        0x0 ./Core/Src/Exercise 8.o
+ .data          0x0000000000000000        0x0 ./Core/Src/Exercise 8.o
+ .bss           0x0000000000000000        0x0 ./Core/Src/Exercise 8.o
+ .text.init_exercise8
+                0x0000000000000000        0xc ./Core/Src/Exercise 8.o
+ .text.run_exercise8
+                0x0000000000000000        0xc ./Core/Src/Exercise 8.o
+ .debug_info    0x0000000000000000      0x1a4 ./Core/Src/Exercise 8.o
+ .debug_abbrev  0x0000000000000000       0xb6 ./Core/Src/Exercise 8.o
+ .debug_aranges
+                0x0000000000000000       0x28 ./Core/Src/Exercise 8.o
+ .debug_ranges  0x0000000000000000       0x18 ./Core/Src/Exercise 8.o
+ .debug_macro   0x0000000000000000      0x19b ./Core/Src/Exercise 8.o
+ .debug_macro   0x0000000000000000      0xa9c ./Core/Src/Exercise 8.o
+ .debug_macro   0x0000000000000000      0x20f ./Core/Src/Exercise 8.o
+ .debug_macro   0x0000000000000000       0x2e ./Core/Src/Exercise 8.o
+ .debug_macro   0x0000000000000000       0x22 ./Core/Src/Exercise 8.o
+ .debug_macro   0x0000000000000000       0x22 ./Core/Src/Exercise 8.o
+ .debug_macro   0x0000000000000000       0x8e ./Core/Src/Exercise 8.o
+ .debug_macro   0x0000000000000000       0x51 ./Core/Src/Exercise 8.o
+ .debug_macro   0x0000000000000000      0x103 ./Core/Src/Exercise 8.o
+ .debug_macro   0x0000000000000000       0x6a ./Core/Src/Exercise 8.o
+ .debug_macro   0x0000000000000000      0x1df ./Core/Src/Exercise 8.o
+ .debug_macro   0x0000000000000000       0x1c ./Core/Src/Exercise 8.o
+ .debug_macro   0x0000000000000000       0x22 ./Core/Src/Exercise 8.o
+ .debug_macro   0x0000000000000000       0xc3 ./Core/Src/Exercise 8.o
+ .debug_macro   0x0000000000000000      0xd23 ./Core/Src/Exercise 8.o
+ .debug_macro   0x0000000000000000     0xde75 ./Core/Src/Exercise 8.o
+ .debug_macro   0x0000000000000000       0x6d ./Core/Src/Exercise 8.o
+ .debug_macro   0x0000000000000000     0x34a2 ./Core/Src/Exercise 8.o
+ .debug_macro   0x0000000000000000      0x174 ./Core/Src/Exercise 8.o
+ .debug_macro   0x0000000000000000       0x5c ./Core/Src/Exercise 8.o
+ .debug_macro   0x0000000000000000      0x5bc ./Core/Src/Exercise 8.o
+ .debug_macro   0x0000000000000000      0x1b7 ./Core/Src/Exercise 8.o
+ .debug_macro   0x0000000000000000      0x1cb ./Core/Src/Exercise 8.o
+ .debug_macro   0x0000000000000000      0x114 ./Core/Src/Exercise 8.o
+ .debug_macro   0x0000000000000000      0x1b2 ./Core/Src/Exercise 8.o
+ .debug_macro   0x0000000000000000       0x27 ./Core/Src/Exercise 8.o
+ .debug_macro   0x0000000000000000      0x12f ./Core/Src/Exercise 8.o
+ .debug_macro   0x0000000000000000      0x1bc ./Core/Src/Exercise 8.o
+ .debug_macro   0x0000000000000000       0x34 ./Core/Src/Exercise 8.o
+ .debug_macro   0x0000000000000000       0x3c ./Core/Src/Exercise 8.o
+ .debug_macro   0x0000000000000000       0x57 ./Core/Src/Exercise 8.o
+ .debug_macro   0x0000000000000000       0x87 ./Core/Src/Exercise 8.o
+ .debug_macro   0x0000000000000000      0x183 ./Core/Src/Exercise 8.o
+ .debug_macro   0x0000000000000000      0x140 ./Core/Src/Exercise 8.o
+ .debug_macro   0x0000000000000000       0x69 ./Core/Src/Exercise 8.o
+ .debug_macro   0x0000000000000000       0x10 ./Core/Src/Exercise 8.o
+ .debug_line    0x0000000000000000      0x648 ./Core/Src/Exercise 8.o
+ .debug_str     0x0000000000000000    0x78a4a ./Core/Src/Exercise 8.o
+ .comment       0x0000000000000000       0x54 ./Core/Src/Exercise 8.o
+ .debug_frame   0x0000000000000000       0x50 ./Core/Src/Exercise 8.o
+ .ARM.attributes
+                0x0000000000000000       0x2d ./Core/Src/Exercise 8.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 9.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 9.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 9.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 9.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 9.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 9.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 9.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 9.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 9.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 9.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 9.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 9.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 9.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 9.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 9.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 9.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 9.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 9.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 9.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 9.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 9.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 9.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 9.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 9.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 9.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 9.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 9.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 9.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 9.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 9.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 9.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 9.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 9.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 9.o
+ .group         0x0000000000000000        0xc ./Core/Src/Exercise 9.o
+ .text          0x0000000000000000        0x0 ./Core/Src/Exercise 9.o
+ .data          0x0000000000000000        0x0 ./Core/Src/Exercise 9.o
+ .bss           0x0000000000000000        0x0 ./Core/Src/Exercise 9.o
+ .text.init_exercise9
+                0x0000000000000000        0xc ./Core/Src/Exercise 9.o
+ .text.run_exercise9
+                0x0000000000000000        0xc ./Core/Src/Exercise 9.o
+ .debug_info    0x0000000000000000      0x1a4 ./Core/Src/Exercise 9.o
+ .debug_abbrev  0x0000000000000000       0xb6 ./Core/Src/Exercise 9.o
+ .debug_aranges
+                0x0000000000000000       0x28 ./Core/Src/Exercise 9.o
+ .debug_ranges  0x0000000000000000       0x18 ./Core/Src/Exercise 9.o
+ .debug_macro   0x0000000000000000      0x19b ./Core/Src/Exercise 9.o
+ .debug_macro   0x0000000000000000      0xa9c ./Core/Src/Exercise 9.o
+ .debug_macro   0x0000000000000000      0x20f ./Core/Src/Exercise 9.o
+ .debug_macro   0x0000000000000000       0x2e ./Core/Src/Exercise 9.o
+ .debug_macro   0x0000000000000000       0x22 ./Core/Src/Exercise 9.o
+ .debug_macro   0x0000000000000000       0x22 ./Core/Src/Exercise 9.o
+ .debug_macro   0x0000000000000000       0x8e ./Core/Src/Exercise 9.o
+ .debug_macro   0x0000000000000000       0x51 ./Core/Src/Exercise 9.o
+ .debug_macro   0x0000000000000000      0x103 ./Core/Src/Exercise 9.o
+ .debug_macro   0x0000000000000000       0x6a ./Core/Src/Exercise 9.o
+ .debug_macro   0x0000000000000000      0x1df ./Core/Src/Exercise 9.o
+ .debug_macro   0x0000000000000000       0x1c ./Core/Src/Exercise 9.o
+ .debug_macro   0x0000000000000000       0x22 ./Core/Src/Exercise 9.o
+ .debug_macro   0x0000000000000000       0xc3 ./Core/Src/Exercise 9.o
+ .debug_macro   0x0000000000000000      0xd23 ./Core/Src/Exercise 9.o
+ .debug_macro   0x0000000000000000     0xde75 ./Core/Src/Exercise 9.o
+ .debug_macro   0x0000000000000000       0x6d ./Core/Src/Exercise 9.o
+ .debug_macro   0x0000000000000000     0x34a2 ./Core/Src/Exercise 9.o
+ .debug_macro   0x0000000000000000      0x174 ./Core/Src/Exercise 9.o
+ .debug_macro   0x0000000000000000       0x5c ./Core/Src/Exercise 9.o
+ .debug_macro   0x0000000000000000      0x5bc ./Core/Src/Exercise 9.o
+ .debug_macro   0x0000000000000000      0x1b7 ./Core/Src/Exercise 9.o
+ .debug_macro   0x0000000000000000      0x1cb ./Core/Src/Exercise 9.o
+ .debug_macro   0x0000000000000000      0x114 ./Core/Src/Exercise 9.o
+ .debug_macro   0x0000000000000000      0x1b2 ./Core/Src/Exercise 9.o
+ .debug_macro   0x0000000000000000       0x27 ./Core/Src/Exercise 9.o
+ .debug_macro   0x0000000000000000      0x12f ./Core/Src/Exercise 9.o
+ .debug_macro   0x0000000000000000      0x1bc ./Core/Src/Exercise 9.o
+ .debug_macro   0x0000000000000000       0x34 ./Core/Src/Exercise 9.o
+ .debug_macro   0x0000000000000000       0x3c ./Core/Src/Exercise 9.o
+ .debug_macro   0x0000000000000000       0x57 ./Core/Src/Exercise 9.o
+ .debug_macro   0x0000000000000000       0x87 ./Core/Src/Exercise 9.o
+ .debug_macro   0x0000000000000000      0x183 ./Core/Src/Exercise 9.o
+ .debug_macro   0x0000000000000000      0x140 ./Core/Src/Exercise 9.o
+ .debug_macro   0x0000000000000000       0x69 ./Core/Src/Exercise 9.o
+ .debug_macro   0x0000000000000000       0x10 ./Core/Src/Exercise 9.o
+ .debug_line    0x0000000000000000      0x648 ./Core/Src/Exercise 9.o
+ .debug_str     0x0000000000000000    0x78a4a ./Core/Src/Exercise 9.o
+ .comment       0x0000000000000000       0x54 ./Core/Src/Exercise 9.o
+ .debug_frame   0x0000000000000000       0x50 ./Core/Src/Exercise 9.o
+ .ARM.attributes
+                0x0000000000000000       0x2d ./Core/Src/Exercise 9.o
  .group         0x0000000000000000        0xc ./Core/Src/main.o
  .group         0x0000000000000000        0xc ./Core/Src/main.o
  .group         0x0000000000000000        0xc ./Core/Src/main.o
@@ -68,6 +958,41 @@ Discarded input sections
  .text          0x0000000000000000        0x0 ./Core/Src/main.o
  .data          0x0000000000000000        0x0 ./Core/Src/main.o
  .bss           0x0000000000000000        0x0 ./Core/Src/main.o
+ .debug_macro   0x0000000000000000      0xa9c ./Core/Src/main.o
+ .debug_macro   0x0000000000000000      0x20f ./Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x2e ./Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x22 ./Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x22 ./Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x8e ./Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x51 ./Core/Src/main.o
+ .debug_macro   0x0000000000000000      0x103 ./Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x6a ./Core/Src/main.o
+ .debug_macro   0x0000000000000000      0x1df ./Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x1c ./Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x22 ./Core/Src/main.o
+ .debug_macro   0x0000000000000000       0xc3 ./Core/Src/main.o
+ .debug_macro   0x0000000000000000      0xd23 ./Core/Src/main.o
+ .debug_macro   0x0000000000000000     0xde75 ./Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x6d ./Core/Src/main.o
+ .debug_macro   0x0000000000000000     0x34a2 ./Core/Src/main.o
+ .debug_macro   0x0000000000000000      0x174 ./Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x5c ./Core/Src/main.o
+ .debug_macro   0x0000000000000000      0x5bc ./Core/Src/main.o
+ .debug_macro   0x0000000000000000      0x1b7 ./Core/Src/main.o
+ .debug_macro   0x0000000000000000      0x1cb ./Core/Src/main.o
+ .debug_macro   0x0000000000000000      0x114 ./Core/Src/main.o
+ .debug_macro   0x0000000000000000      0x1b2 ./Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x27 ./Core/Src/main.o
+ .debug_macro   0x0000000000000000      0x12f ./Core/Src/main.o
+ .debug_macro   0x0000000000000000      0x1bc ./Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x34 ./Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x3c ./Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x57 ./Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x87 ./Core/Src/main.o
+ .debug_macro   0x0000000000000000      0x183 ./Core/Src/main.o
+ .debug_macro   0x0000000000000000      0x140 ./Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x69 ./Core/Src/main.o
+ .debug_macro   0x0000000000000000       0x10 ./Core/Src/main.o
  .group         0x0000000000000000        0xc ./Core/Src/stm32f1xx_hal_msp.o
  .group         0x0000000000000000        0xc ./Core/Src/stm32f1xx_hal_msp.o
  .group         0x0000000000000000        0xc ./Core/Src/stm32f1xx_hal_msp.o
@@ -339,7 +1264,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x16 ./Core/Src/syscalls.o
  .debug_macro   0x0000000000000000       0xce ./Core/Src/syscalls.o
  .debug_line    0x0000000000000000      0x802 ./Core/Src/syscalls.o
- .debug_str     0x0000000000000000     0x8eb4 ./Core/Src/syscalls.o
+ .debug_str     0x0000000000000000     0x8eb5 ./Core/Src/syscalls.o
  .comment       0x0000000000000000       0x54 ./Core/Src/syscalls.o
  .debug_frame   0x0000000000000000      0x2ac ./Core/Src/syscalls.o
  .ARM.attributes
@@ -401,7 +1326,7 @@ Discarded input sections
  .debug_macro   0x0000000000000000       0x6a ./Core/Src/sysmem.o
  .debug_macro   0x0000000000000000      0x1df ./Core/Src/sysmem.o
  .debug_line    0x0000000000000000      0x4f8 ./Core/Src/sysmem.o
- .debug_str     0x0000000000000000     0x6287 ./Core/Src/sysmem.o
+ .debug_str     0x0000000000000000     0x6288 ./Core/Src/sysmem.o
  .comment       0x0000000000000000       0x54 ./Core/Src/sysmem.o
  .debug_frame   0x0000000000000000       0x34 ./Core/Src/sysmem.o
  .ARM.attributes
@@ -1835,6 +2760,16 @@ Linker script and memory map
 LOAD c:/st/stm32cubeide_1.7.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_2.0.0.202105311346/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7-m/nofp/crti.o
 LOAD c:/st/stm32cubeide_1.7.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_2.0.0.202105311346/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/thumb/v7-m/nofp/crtbegin.o
 LOAD c:/st/stm32cubeide_1.7.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_2.0.0.202105311346/tools/bin/../lib/gcc/arm-none-eabi/9.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+LOAD ./Core/Src/Exercise 1.o
+LOAD ./Core/Src/Exercise 10.o
+LOAD ./Core/Src/Exercise 2.o
+LOAD ./Core/Src/Exercise 3.o
+LOAD ./Core/Src/Exercise 4.o
+LOAD ./Core/Src/Exercise 5.o
+LOAD ./Core/Src/Exercise 6.o
+LOAD ./Core/Src/Exercise 7.o
+LOAD ./Core/Src/Exercise 8.o
+LOAD ./Core/Src/Exercise 9.o
 LOAD ./Core/Src/main.o
 LOAD ./Core/Src/stm32f1xx_hal_msp.o
 LOAD ./Core/Src/stm32f1xx_it.o
@@ -2268,50 +3203,15 @@ LOAD c:/st/stm32cubeide_1.7.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.exte
  .debug_ranges  0x0000000000000280       0x48 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
  .debug_ranges  0x00000000000002c8       0x80 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
 
-.debug_macro    0x0000000000000000    0x15548
+.debug_macro    0x0000000000000000      0xce8
  .debug_macro   0x0000000000000000      0x191 ./Core/Src/main.o
- .debug_macro   0x0000000000000191      0xa9c ./Core/Src/main.o
- .debug_macro   0x0000000000000c2d      0x20f ./Core/Src/main.o
- .debug_macro   0x0000000000000e3c       0x2e ./Core/Src/main.o
- .debug_macro   0x0000000000000e6a       0x22 ./Core/Src/main.o
- .debug_macro   0x0000000000000e8c       0x22 ./Core/Src/main.o
- .debug_macro   0x0000000000000eae       0x8e ./Core/Src/main.o
- .debug_macro   0x0000000000000f3c       0x51 ./Core/Src/main.o
- .debug_macro   0x0000000000000f8d      0x103 ./Core/Src/main.o
- .debug_macro   0x0000000000001090       0x6a ./Core/Src/main.o
- .debug_macro   0x00000000000010fa      0x1df ./Core/Src/main.o
- .debug_macro   0x00000000000012d9       0x1c ./Core/Src/main.o
- .debug_macro   0x00000000000012f5       0x22 ./Core/Src/main.o
- .debug_macro   0x0000000000001317       0xc3 ./Core/Src/main.o
- .debug_macro   0x00000000000013da      0xd23 ./Core/Src/main.o
- .debug_macro   0x00000000000020fd     0xde75 ./Core/Src/main.o
- .debug_macro   0x000000000000ff72       0x6d ./Core/Src/main.o
- .debug_macro   0x000000000000ffdf     0x34a2 ./Core/Src/main.o
- .debug_macro   0x0000000000013481      0x174 ./Core/Src/main.o
- .debug_macro   0x00000000000135f5       0x5c ./Core/Src/main.o
- .debug_macro   0x0000000000013651      0x5bc ./Core/Src/main.o
- .debug_macro   0x0000000000013c0d      0x1b7 ./Core/Src/main.o
- .debug_macro   0x0000000000013dc4      0x1cb ./Core/Src/main.o
- .debug_macro   0x0000000000013f8f      0x114 ./Core/Src/main.o
- .debug_macro   0x00000000000140a3      0x1b2 ./Core/Src/main.o
- .debug_macro   0x0000000000014255       0x27 ./Core/Src/main.o
- .debug_macro   0x000000000001427c      0x12f ./Core/Src/main.o
- .debug_macro   0x00000000000143ab      0x1bc ./Core/Src/main.o
- .debug_macro   0x0000000000014567       0x34 ./Core/Src/main.o
- .debug_macro   0x000000000001459b       0x3c ./Core/Src/main.o
- .debug_macro   0x00000000000145d7       0x57 ./Core/Src/main.o
- .debug_macro   0x000000000001462e       0x87 ./Core/Src/main.o
- .debug_macro   0x00000000000146b5      0x183 ./Core/Src/main.o
- .debug_macro   0x0000000000014838      0x140 ./Core/Src/main.o
- .debug_macro   0x0000000000014978       0x69 ./Core/Src/main.o
- .debug_macro   0x00000000000149e1       0x10 ./Core/Src/main.o
- .debug_macro   0x00000000000149f1      0x191 ./Core/Src/stm32f1xx_hal_msp.o
- .debug_macro   0x0000000000014b82      0x19b ./Core/Src/stm32f1xx_it.o
- .debug_macro   0x0000000000014d1d      0x182 ./Core/Src/system_stm32f1xx.o
- .debug_macro   0x0000000000014e9f      0x1a6 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
- .debug_macro   0x0000000000015045      0x182 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
- .debug_macro   0x00000000000151c7      0x1ed ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
- .debug_macro   0x00000000000153b4      0x194 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+ .debug_macro   0x0000000000000191      0x191 ./Core/Src/stm32f1xx_hal_msp.o
+ .debug_macro   0x0000000000000322      0x19b ./Core/Src/stm32f1xx_it.o
+ .debug_macro   0x00000000000004bd      0x182 ./Core/Src/system_stm32f1xx.o
+ .debug_macro   0x000000000000063f      0x1a6 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+ .debug_macro   0x00000000000007e5      0x182 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
+ .debug_macro   0x0000000000000967      0x1ed ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
+ .debug_macro   0x0000000000000b54      0x194 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
 
 .debug_line     0x0000000000000000     0x4522
  .debug_line    0x0000000000000000      0x6cc ./Core/Src/main.o
@@ -2324,24 +3224,23 @@ LOAD c:/st/stm32cubeide_1.7.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.exte
  .debug_line    0x0000000000002ed5      0x962 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
  .debug_line    0x0000000000003837      0xceb ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
 
-.debug_str      0x0000000000000000    0x7984c
- .debug_str     0x0000000000000000    0x7890c ./Core/Src/main.o
-                                      0x78c48 (size before relaxing)
- .debug_str     0x000000000007890c       0x5a ./Core/Src/stm32f1xx_hal_msp.o
-                                      0x78aa0 (size before relaxing)
- .debug_str     0x0000000000078966       0xbd ./Core/Src/stm32f1xx_it.o
-                                      0x78abd (size before relaxing)
- .debug_str     0x0000000000078a23       0x52 ./Core/Src/system_stm32f1xx.o
-                                      0x78a5e (size before relaxing)
- .debug_str     0x0000000000078a75       0x36 ./Core/Startup/startup_stm32f103c6ux.o
-                                         0x9b (size before relaxing)
- .debug_str     0x0000000000078aab      0x52e ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+.debug_str      0x0000000000000000    0x798b2
+ .debug_str     0x0000000000000000    0x7890d ./Core/Src/main.o
+                                      0x78c49 (size before relaxing)
+ .debug_str     0x000000000007890d       0x5a ./Core/Src/stm32f1xx_hal_msp.o
+                                      0x78aa1 (size before relaxing)
+ .debug_str     0x0000000000078967       0xbd ./Core/Src/stm32f1xx_it.o
+                                      0x78abe (size before relaxing)
+ .debug_str     0x0000000000078a24       0x52 ./Core/Src/system_stm32f1xx.o
+                                      0x78a5f (size before relaxing)
+ .debug_str     0x0000000000078a76       0x9b ./Core/Startup/startup_stm32f103c6ux.o
+ .debug_str     0x0000000000078b11      0x52e ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
                                       0x790b5 (size before relaxing)
- .debug_str     0x0000000000078fd9      0x300 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
+ .debug_str     0x000000000007903f      0x300 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
                                       0x790bd (size before relaxing)
- .debug_str     0x00000000000792d9      0x324 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
+ .debug_str     0x000000000007933f      0x324 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.o
                                       0x78e22 (size before relaxing)
- .debug_str     0x00000000000795fd      0x24f ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+ .debug_str     0x0000000000079663      0x24f ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
                                       0x78e5b (size before relaxing)
 
 .comment        0x0000000000000000       0x53
