@@ -1,2 +1,4 @@
-Exercise 1.c:8:6:init_exercise1	4	static
-Exercise 1.c:9:6:run_exercise1	4	static
+Exercise 1.c:10:6:init_exercise1	4	static
+Exercise 1.c:11:6:led_red	8	static
+Exercise 1.c:15:6:led_yellow	8	static
+Exercise 1.c:19:6:run_exercise1	8	static
