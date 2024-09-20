@@ -438,8 +438,8 @@ int main(void)
 //	  run_exercise9();
 	  run_exercise10();
  8000384:	f7ff ffa4 	bl	80002d0 <run_exercise10>
-	  HAL_Delay(100);
- 8000388:	2064      	movs	r0, #100	; 0x64
+	  HAL_Delay(10);
+ 8000388:	200a      	movs	r0, #10
  800038a:	f000 f9a3 	bl	80006d4 <HAL_Delay>
 	  run_exercise10();
  800038e:	e7f9      	b.n	8000384 <main+0x14>

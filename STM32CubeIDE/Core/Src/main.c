@@ -99,7 +99,7 @@ int main(void)
 //	  run_exercise8();
 //	  run_exercise9();
 	  run_exercise10();
-	  HAL_Delay(100);
+	  HAL_Delay(10);
 	  //clearAllClock();
     /* USER CODE END WHILE */
 
